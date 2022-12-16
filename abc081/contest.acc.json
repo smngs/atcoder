@@ -20,7 +20,12 @@
       "id": "abc081_b",
       "label": "B",
       "title": "Shift only",
-      "url": "https://atcoder.jp/contests/abc081/tasks/abc081_b"
+      "url": "https://atcoder.jp/contests/abc081/tasks/abc081_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc086_a",
