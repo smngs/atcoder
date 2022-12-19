@@ -12,7 +12,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_a",
       "directory": {
         "path": "a",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -22,7 +23,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_b",
       "directory": {
         "path": "b",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -32,7 +34,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_c",
       "directory": {
         "path": "c",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -42,7 +45,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_d",
       "directory": {
         "path": "d",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -52,7 +56,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_e",
       "directory": {
         "path": "e",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -62,7 +67,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_f",
       "directory": {
         "path": "f",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -72,7 +78,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_g",
       "directory": {
         "path": "g",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -82,7 +89,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_h",
       "directory": {
         "path": "h",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -92,7 +100,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_i",
       "directory": {
         "path": "i",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -102,7 +111,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_j",
       "directory": {
         "path": "j",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -112,7 +122,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_k",
       "directory": {
         "path": "k",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -122,7 +133,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_l",
       "directory": {
         "path": "l",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -132,7 +144,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_m",
       "directory": {
         "path": "m",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -142,7 +155,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_n",
       "directory": {
         "path": "n",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -152,7 +166,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_o",
       "directory": {
         "path": "o",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -162,7 +177,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_p",
       "directory": {
         "path": "p",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -172,7 +188,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_q",
       "directory": {
         "path": "q",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -182,7 +199,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_r",
       "directory": {
         "path": "r",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -192,7 +210,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_s",
       "directory": {
         "path": "s",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -202,7 +221,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_t",
       "directory": {
         "path": "t",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -212,7 +232,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_u",
       "directory": {
         "path": "u",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -222,7 +243,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_v",
       "directory": {
         "path": "v",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -232,7 +254,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_w",
       "directory": {
         "path": "w",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -242,7 +265,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_x",
       "directory": {
         "path": "x",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -252,7 +276,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_y",
       "directory": {
         "path": "y",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -262,7 +287,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_z",
       "directory": {
         "path": "z",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -272,7 +298,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_aa",
       "directory": {
         "path": "aa",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -282,7 +309,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ab",
       "directory": {
         "path": "ab",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -292,7 +320,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ac",
       "directory": {
         "path": "ac",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -302,7 +331,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ad",
       "directory": {
         "path": "ad",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -312,7 +342,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ae",
       "directory": {
         "path": "ae",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -322,7 +353,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_af",
       "directory": {
         "path": "af",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -332,7 +364,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ag",
       "directory": {
         "path": "ag",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -342,7 +375,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ah",
       "directory": {
         "path": "ah",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -352,7 +386,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ai",
       "directory": {
         "path": "ai",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -362,7 +397,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_aj",
       "directory": {
         "path": "aj",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -372,7 +408,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cv",
       "directory": {
         "path": "ex1",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -382,7 +419,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cu",
       "directory": {
         "path": "ex2",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -392,7 +430,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ct",
       "directory": {
         "path": "ex3",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -402,7 +441,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cs",
       "directory": {
         "path": "ex4",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -412,7 +452,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cr",
       "directory": {
         "path": "ex5",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -422,7 +463,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cq",
       "directory": {
         "path": "ex6",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -432,7 +474,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cp",
       "directory": {
         "path": "ex7",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -442,7 +485,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_co",
       "directory": {
         "path": "ex8",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -452,7 +496,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cn",
       "directory": {
         "path": "ex9",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -462,7 +507,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cm",
       "directory": {
         "path": "ex10",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -472,7 +518,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cl",
       "directory": {
         "path": "ex11",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -482,7 +529,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ck",
       "directory": {
         "path": "ex12",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -492,7 +540,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cj",
       "directory": {
         "path": "ex13",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -502,7 +551,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ci",
       "directory": {
         "path": "ex14",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -512,7 +562,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ch",
       "directory": {
         "path": "ex15",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -522,7 +573,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cg",
       "directory": {
         "path": "ex16",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -532,7 +584,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cf",
       "directory": {
         "path": "ex17",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -542,7 +595,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ce",
       "directory": {
         "path": "ex18",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -552,7 +606,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cd",
       "directory": {
         "path": "ex19",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -562,7 +617,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cc",
       "directory": {
         "path": "ex20",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -572,7 +628,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_cb",
       "directory": {
         "path": "ex21",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -582,7 +639,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ca",
       "directory": {
         "path": "ex22",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -592,7 +650,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_bz",
       "directory": {
         "path": "ex23",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -602,7 +661,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_by",
       "directory": {
         "path": "ex24",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -612,7 +672,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_bx",
       "directory": {
         "path": "ex25",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -622,7 +683,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_bw",
       "directory": {
         "path": "ex26",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -632,7 +694,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_ak",
       "directory": {
         "path": "ap1",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -642,7 +705,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_al",
       "directory": {
         "path": "ap2",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -652,7 +716,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_am",
       "directory": {
         "path": "ap3",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     },
     {
@@ -662,7 +727,8 @@
       "url": "https://atcoder.jp/contest/apg4b/tasks/APG4b_an",
       "directory": {
         "path": "ap4",
-        "testdir": "test"
+        "testdir": "test",
+        "submit": "main.cpp"
       }
     }
   ]
