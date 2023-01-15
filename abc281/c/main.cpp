@@ -5,22 +5,20 @@ int main() {
   long long n, t;
   cin >> n >> t;
 
-  vector<long long> a(n+1);
-  long long sum = 0;
-
-  for (int i = 1; i <= n; i++) {
+  vector<int> a(n+1);
+  long long sum=0;
+  for (int i = 1; i < n+1; i++) {
     cin >> a.at(i);
     sum += a.at(i);
   }
 
-  int amari = t % sum;
-  
-  for (int i = 1; i <= n; i++) {
-    if (amari - a.at(i) < 0) {
-      cout << i << ' ' << amari << endl;
+  t %= sum;
+  for (int i = 1; i < n+1; i++) {
+    if (t - a.at(i) >= 0) {
+      t -= a.at(i);
+    } else {
+      cout << i << ' ' << t << endl;
       return 0;
     }
-    amari -= a.at(i);
   }
-
 }
